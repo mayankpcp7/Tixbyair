@@ -1,11 +1,11 @@
-import logo from "./logo.svg";
 import "./App.css";
 import Nav from "./components/Nav";
 
 function App() {
   return (
     <>
-      <Nav />
+     
+      <h2 className=" bg-red-600">lorem</h2>
     </>
   );
 }
