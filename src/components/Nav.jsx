@@ -1,8 +1,8 @@
 import React from "react";
 import { useState } from "react";
 import logo from "../assets/images/webp/navlogo.webp";
-import { RxCross1 } from "react-icons/rx";
-import { BiMenu } from "react-icons/bi";
+// import { RxCross1 } from "react-icons/rx";
+// import { BiMenu } from "react-icons/bi";
 const Nav = () => {
   const [head, sethead] = useState(true);
   function showUl() {
@@ -15,7 +15,7 @@ const Nav = () => {
   }
   return (
     <>
-     
+
     </>
   );
 };
